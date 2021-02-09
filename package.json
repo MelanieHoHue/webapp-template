@@ -1,0 +1,28 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "Express.js Webapp Template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MelanieHoHue/webapp-template.git"
+  },
+  "keywords": [
+    "Express.js",
+    "Node.js",
+    "Jest",
+    "WebApp"
+  ],
+  "author": "Melanie Holzapfel-Huettenrauch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MelanieHoHue/webapp-template/issues"
+  },
+  "homepage": "https://github.com/MelanieHoHue/webapp-template#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
