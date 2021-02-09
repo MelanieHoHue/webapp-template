@@ -9,4 +9,6 @@
 - git commit -m 'remmove node_modules directory'
 - git push
 
-
+# setting up express
+- ngx express-generator
+- deleted jade from package.json
